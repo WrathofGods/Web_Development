@@ -1,0 +1,50 @@
+.top-container{
+	background-color:#EAF6F6;
+	position:relative;
+}
+body{
+	margin:0px;
+	text-align:center;
+}
+.top-cloud{
+	position:absolute;
+	top:20px;
+	right:200px;
+}
+.bottom-cloud{
+	position:absolute;
+	top:200px;
+	left:100px;
+}
+
+span{
+	text-decoration:underline;
+}
+.profile-pic{
+	border-radius:50%;
+}
+h1{
+	font-family:sans-serif;
+	padding-top:100;
+	color:#66bfbf;
+}
+h2{
+	font-family:sans-serif;
+	color:#66bfbf;
+}
+h3{
+	font-family:sans-serif;
+	color:#66bfbf;
+}
+hr{
+	width:10%;
+	border-width:20px;
+	border-bottom-width:0;
+	border-style:dotted;
+	color:#eaf6f6;
+}
+.skills-row{
+	width:50%;
+	text-align:left;
+	margin:0px auto ;
+}
